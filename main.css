@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito|Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,800|Righteous&display=swap');
 
 body {
   padding: 0px 50px;
@@ -72,7 +72,7 @@ h4 {
 }
 
 .product-specs p {
-  font-weight: bold;
+  font-weight: 800;
   padding-left: 40px;
   line-height: .5em;
   font-size: .9em;
@@ -80,7 +80,7 @@ h4 {
 }
 
 .product-pricing p {
-  font-weight: bold;
+  font-weight: 800;
   padding-left: 40px;
   line-height: .5em;
   font-size: .9em;
