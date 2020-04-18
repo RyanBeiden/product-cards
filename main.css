@@ -1,39 +1,39 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito:400,800|Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,800|Audiowide&display=swap');
 
 body {
   padding: 0px 50px;
   margin: auto;
-  background-color: #009688;
+  background-color: #9E9E9E;
 }
 
 h1 {
   text-align: center;
-  border: 2px solid #212121;
-  color: #212121;
+  border: 2px solid #444;
+  color: #444;
   padding: 15px;
   margin-top: 25px;
-  font-family: 'Righteous', cursive;
+  font-family: 'Audiowide', cursive;
 }
 
 h2 {
   text-align: center;
-  border-bottom: solid 2px #FF5252;
+  border-bottom: solid 2px #4CAF50;
   padding: 20px 0px;
   margin: 0;
-  color: #212121;
-  font-family: 'Righteous', cursive;
+  color: #444;
+  font-family: 'Audiowide', cursive;
 }
 
 h3 {
   padding-left: 20px;
   line-height: .5em;
   font-weight: lighter;
-  color: #212121;
+  color: #444;
   font-family: 'Nunito', sans-serif;
 }
 
 h4 {
-  background-color: #FF5252;
+  background-color: #4CAF50;
   color: #212121;
   padding: 0px 0px 0px 5px;
   font-family: 'Nunito', sans-serif;
@@ -52,10 +52,10 @@ h4 {
 } 
 
 .card {
-  box-shadow: 8px 10px #00796B;
+  box-shadow: 8px 10px #616161;
   width: 400px;
   margin: 50px;
-  border: solid 2px #FF5252;
+  border: solid 2px #4CAF50;
   background-color: #fff;
   font-family: 'Nunito', sans-serif;
 }
@@ -68,7 +68,7 @@ h4 {
 
 .card p {
   padding: 0px 5px;
-  color: #212121;
+  color: #444;
 }
 
 .specs p {
@@ -76,7 +76,7 @@ h4 {
   padding-left: 40px;
   line-height: .5em;
   font-size: .9em;
-  color: #212121;
+  color: #444;
 }
 
 .pricing p {
@@ -84,7 +84,7 @@ h4 {
   padding-left: 40px;
   line-height: .5em;
   font-size: .9em;
-  color: #212121;
+  color: #444;
 }
 
 .sold-out {
@@ -98,4 +98,63 @@ footer {
   font-size: .75em;
   line-height: .5em;
   color: #757575;
+}
+
+/* Changes in color pallete depending on screen size */
+
+@media (min-width: 2116px) {
+  body {
+    background-color: #9E9E9E;
+  }
+
+  h2 {
+    border-bottom: solid 2px #7C4DFF;
+  }
+
+  .card {
+    box-shadow: 8px 10px #616161;
+    border: solid 2px #7C4DFF;
+  }
+
+  h4 {
+    background-color: #7C4DFF;
+  }
+}
+
+@media (min-width: 1612px) and (max-width: 2115px) {
+  body {
+    background-color: #9E9E9E;
+  }
+
+  h2 {
+    border-bottom: solid 2px #00BCD4;
+  }
+
+  .card {
+    box-shadow: 8px 10px #616161;
+    border: solid 2px #00BCD4;
+  }
+
+  h4 {
+    background-color: #00BCD4;
+  }
+}
+
+@media (max-width: 1107px) {
+  body {
+    background-color: #9E9E9E;
+  }
+
+  h2 {
+    border-bottom: solid 2px #FF4081;
+  }
+
+  .card {
+    box-shadow: 8px 10px #616161;
+    border: solid 2px #FF4081;
+  }
+
+  h4 {
+    background-color: #FF4081;
+  }
 }
