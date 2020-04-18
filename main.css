@@ -71,7 +71,7 @@ h4 {
   color: #212121;
 }
 
-.product-specs p {
+.specs p {
   font-weight: 800;
   padding-left: 40px;
   line-height: .5em;
@@ -79,7 +79,7 @@ h4 {
   color: #212121;
 }
 
-.product-pricing p {
+.pricing p {
   font-weight: 800;
   padding-left: 40px;
   line-height: .5em;
