@@ -9,4 +9,4 @@ Here you will find a grid of cards that displays first generation Apple products
 ![Product Card Site Screenshot](product-card-site-demo.png)
 
 #### My greatest resource throughout this process:
-**[CSS-Tricks Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)*
+**[CSS-Tricks Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
