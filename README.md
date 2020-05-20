@@ -1,6 +1,6 @@
 # Product Cards
 
-Here you will find a grid of cards that displays first generation Apple products. There was no JavaScript used, however, the main learn here was spacing each card properly using Flexbox.
+Here you will find a grid of cards that displays first generation Apple products. The main learn here was spacing each card properly using Flexbox.
 
 ### Technologies Used:
 **Flexbox**
