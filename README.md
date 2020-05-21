@@ -2,11 +2,14 @@
 
 Here you will find a grid of cards that displays first generation Apple products. The main learn here was spacing each card properly using Flexbox.
 
-### Technologies Used:
-**Flexbox**
+## Preview
 
----
 ![Product Card Site Screenshot](product-card-site-demo.png)
 
-#### My greatest resource throughout this process:
-[CSS-Tricks Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+## View Project
+- Clone the repository 👉🏼`$ git clone https://github.com/RyanBeiden/product-cards.git`
+
+- Run any http server `$ hs` or code editor to view project 👀
+
+## Technologies Used
+[![Flexbox](https://img.shields.io/badge/-Flexbox-2c9fcc?style=flat-square)](#)
