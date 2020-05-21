@@ -12,4 +12,4 @@ Here you will find a grid of cards that displays first generation Apple products
 - Run any http server `$ hs` or code editor to view project 👀
 
 ## Technologies Used
-[![Flexbox](https://img.shields.io/badge/-Flexbox-2c9fcc?style=flat-square)](#)
+[![HTML](https://img.shields.io/badge/-HTML-2c9fcc?style=flat-square)](#) [![CSS](https://img.shields.io/badge/-CSS-2c9fcc?style=flat-square)](#) [![Flexbox](https://img.shields.io/badge/-Flexbox-2c9fcc?style=flat-square)](#)
