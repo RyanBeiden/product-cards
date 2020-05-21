@@ -1,6 +1,6 @@
 # Product Cards
 
-Here you will find a grid of cards that displays first generation Apple products. The main feature here was the proper spacing of each card using Flexbox.
+Here you will find a grid of cards that displays first generation Apple products. The main feature here is the proper spacing of each card using Flexbox.
 
 ## Preview
 
